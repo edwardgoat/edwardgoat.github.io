@@ -28,7 +28,7 @@ twitter_username: edwardgoat
 github_username:  edwardgoat
 
 # Build settings
-theme: jekyll-theme-hydejack
+theme: minima
 plugins:
   - jekyll-feed
 
